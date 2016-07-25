@@ -1,0 +1,715 @@
+UNIDAD 1
+
+Sistemas materiales:
+  Definimos un sistema material como un conjunto que de al menos una fase, esta
+  puede ser única o de multiples fases, donde existe una interfase, esta es la
+  capa de separación la cual permite la distincción entre las fases.
+
+Clasificación:
+  * Homogéneos:
+
+    Un sistema es Homogéneos cuando no existe una interfase la cual permita
+    dar la distincción entre las fases, esto no quiere decir que el sistema
+    material sea puro, solamente quiere decir que no se puede identificar
+    otra fase en el sistema.
+
+  * Heterogéneos:
+
+    Un sistema es heterogéneo cuando hay una clara diferenciación entre las
+    fases del sistema, esto quiere decir que exsiste una interfase entre las
+    diferentes fases, si hay una diferenciación de fases eso quiere decir que
+    hay una interfase de alguna forma.
+
+    Una diferenciación de fases implica que entre las diferentes fases puede
+    existir una diferencia entre las propiedades intensivas del sistema.
+
+  * Inhomogéneos:
+
+    Un sistema es inhomogenéo cuando si bien no existe una interfas que permita
+    diferenciar las fases, existe una diferencia entre las propiedades inten-
+    sivas del sistema.
+
+Fases:
+
+  Una fase se refiere a una sección claramente distinguida del sistema donde se
+  mantienen sus propiedades intensivas, o lo que quiere decir, es cada una de
+  las partes homogeneas del sistema.
+
+Metodos de separación de fases:
+
+  * Filtración:
+    Mediante la utilización de una membrana de algún tipo la cual permite que
+    una de las fases pueda circular atravez de la membrana, y que otras fases
+    se vean detenidas por la membrana.
+
+  * Decantación:
+    Mediente la utilización de la gravedad y la diferencia de densidad se busca
+    que las fases mas densa recae al fondo del contenedor y las fases menos
+    densas ascienden a la parte superior del contenedor.
+
+  * Tamización:
+    Mediante la utilización de un tamíz se separan las particulas de mayor
+    tamaño del sistema, este metodo se utiliza para separar fases solidas de un
+    tamaño especifico, ya que el tamíz permite el paso de las partículas del
+    tamaño especifico y menor, pero no las de mayor tamaño.
+
+  * Evaporación:
+    Mediante el uso de los diferentes puntos de evaporación de los compuestos
+    del sistema, se separan los elementos mas volátiles de los menos volátiles,
+    ya que cuando el compuesto A se evapora, el resto del sistema puede que no
+    se encuentre en su punto de evaporación, por lo que este se manteine en el
+    recipiente.
+
+  * Imantación:
+    Mediante la atracción de los elementos ferromagnéticos se separan estos de
+    los elementos no ferromagneticos.
+
+  * Destilación:
+    Similar a la evaporación este metodo da uso de los diferentes puntos de
+    ebullición del los compuestos, con la diferencia de que se captura el gas
+    generado y se lo separa para su utilización, si la temperatura es la 
+    adecuada, unicamente la parte deseada se separara, por lo que al condensar
+    esta parte, se encontrara en un estado de alta pureza.
+
+Sustancias puras:
+  
+  Definimos como sustancias puras a aquellas sustancias las cuales no se pueden
+  separar mediante procesos físicos.
+
+  Simples:
+    Una sustancia pura simple se refiere a una sustancia la cual esta compuesta
+    por un unico elemento quimico, por ejemplo el hierro (Fe)
+
+  Compuestas:
+    Una sustancia pura compuesta se refiere a una sustancia la cual esta 
+    compuesta por un conjunto de elementos quimicos, esta al ser una sustancia
+    pura, no se puede separar mediante métodos físicos, pero si se puede
+    separar por medio de reacciones químicas. En si una sustancia pura 
+    compuesta contiene un solo tipo de moleculas.
+
+Fenómenos fisicos:
+  Defninmos como fenómeno fisico a las diferentes interacciónes con la materia
+  que no generan cambios en la estructura química del sistema, o lo que quiere
+  decir que la identidad de la sustancia no se ve alterada.
+
+Fenómeno químico:
+  Definimos como fenómeno químico como toda interacción con la materia donde
+  se altera su estructura basica (o molecular).
+
+Estados de agregación de la materia:
+
+  Podemos definir 3 estados bases de la materia:
+    * Solido
+    * Liquido
+    * Gas
+
+  Estos 3 estados se refieren a la agrupación molecular de la sustancia, según
+  el estado de agregación de la sustancia, la forma en que se encuentran e
+  interactúan las moleculas se ve definida, por ejemplo en el estado gaseoso,
+  la sustancia carece de volúmen, por lo que esta sustancia es compresible, o
+  lo que quiere decir que se adapta a la forma del contenedor.
+
+  En cambio, las sustancias en estado liquido, tambien carecen de forma, pero
+  estas no son compresibles, por lo que si bien se adaptan a la forma del
+  contenedor, estas siempre ocuparan el mismo volúmen.
+
+  Las sustancias solidas, tienen una forma definida, estas siempre ocuparan el
+  mismo volumen (suponiendo que no hay cambios en la temperatura).
+
+Cambios de estado:
+
+  Las sustancias tienen su estado definido según la cantidad de agitación
+  termica entre las moleculas, y la presión del sistema, debido a que las 
+  sustancias gaseosas tienden a tener sus moleculas mas separadas, este se da
+  cuanto existe baja presión en el sistema y la temperatura es alta.
+
+  Conforme aumenta la presion, el compuesto tendera a ser solido o liquido,
+  donde a mayor temperatura, el compuesto tendera a ser liquido debido a la
+  interacción entre las moleculas.
+
+  Debido a este dinamismo de las 2 variables, existen 2 puntos especiales: Un
+  punto Triple, y un punto Critico. En un punto tripe, es posible encontrar a
+  la sustancia en sus 3 estados al mismo timepo.
+
+  En el punto critico (alcanzado cuando tanto la temperatura como la presión
+  lleguen a sus puntos criticos) se da que la densidad del gas de la sustancia
+  sera igual a la densidad de su lquido.
+
+UNIDAD 2:
+
+Átomo:
+  
+  Definimos al átomo como la unidad constituyente elemental de la materia.
+
+Estructura atómica:
+
+  Existen 2 partes de alta importancia en el átomo:
+
+  * Núcleo:
+    Este es el centro del átomo, donde se encuentra contenida la mayor parte de
+    la masa del elemento, esta compuesto por 2 particulas elementales: 
+    Neutrones, los cuales tienen carga neutra, y Protones, los cuales tienen
+    una carga electrica positiva.
+
+  * Electrosfera:
+    Esta es la zona que rodea al nucleo, ocupa el mayor parte del volúmen del
+    átomo, en esta circulan los electrones en sus respectivos orbitales, ademas
+    en este espacio existen otras particulas subatómicas las cuales circulan alreadedor de este e interactuan de diversas formas (como los fotónes y los
+    neutrinos)
+
+Número atómico:
+  El numero atómico se refiere a la cantidad de protones que existen en el
+  nucleo del átomo, estos definen sus caracteristicas, por lo que si por
+  algún motivo se da un cambio en el numero de protones en un átomo, este pasa
+  a ser otro elemento con sus respectivas caracteristicas elementales.
+
+Masa atómica:
+  La masa atómica se refiere a, como indica la masa, la cantidad de materia en 
+  el átomo, esta esta compuesta primordialmente de los protones y neutrones,
+  los cuales son las partículas mas grandes en este, los electrones tienen una
+  masa tan pequeña que es despreciable.
+
+  Cabe mencionar que a diferencia de con el numero atómico, el numero másico
+  puede variar sin que se trate de otro elemento, ya que existe átomos con la
+  misma cantidad de protones, pero diferente cantidad de neutrones, a estos
+  átomos se les llaman Isotopos.
+
+  Los Isotopos son átomos de igual numero atomico y distinto numero masico, lo
+  cual quiere decir que si bien se comporta de manera altamente similar entre
+  si, estos tienen diferencias sutiles en su comportamiento, por ejemplo: la
+  vida media del elemento (como es evidente en el caso del Carbono 14)
+
+  El numero masico que figura en la tabla periodica se calcula mediante la
+  masa de cada uno de los isotopos sobre su porcentaje de ocurrencia, por lo
+  que es un promedio de los diferentes isotopos, donde el numero mas se 
+  aproxima al isotopo mas abundante (por ejemplo en el hidrogeno donde su
+  masa es de 1, pero en la tabla figura 1,00794; ya que sus isotopos son de
+  masa 2 y 3 respectivamente, pero su ocurrencia es extremadamente baja)
+
+Mol:
+  Llamamos mol a la cantidad especifica de una sustancia igual a 6,022 x 10^23
+  átomos, en este punto, la masa de esta cantidad de átomos sera igual que su
+  peso átomico en gramos.
+
+  Esta unidad es extremadamente util para la realización de cálculos utilizados
+  en la química analítica, ya que la cantidad de moles dentro de una reacción
+  se mantiene por el principio de conservación de la masa. (mas sobre esto en
+  la sección en estiquimetrá).
+
+Orbitales:
+  Según la teoria átomica actual, llamamos orbitales a los espacios donde es
+  altamente probable encontrar electrones. Estos se ven definidos por 4 números
+  cuanticos:
+
+  * Principal:
+    Su simbolo es n, este representa la capa en la cual se pueden encontrar los
+    electrones, y este varia desde 1 hasta n.
+
+  * Secundario:
+    Su simbolo es l, este representa la subcapa en la cual pueden encontrarse
+    los electrones, este varia desde 0 hasta n-1, se suele mostrar segun las
+    letras s, p, d, f...
+
+  * Magnetico:
+    Su simbolo es ml, este representa la energía o shift del electrón, y varia
+    entre -l hasta l.
+
+  * Espín:
+    Si simbolo ees ms, y representa la dirección de giro del electrón, este
+    es -1/2 o 1/2
+
+Configuración electrónica:
+  La configuración electronica muestra la forma en que se encuentran acomodados
+  los electrones segun los numeros cuanticos de atomo, en cada uno de los
+  numeros cuanticos solo puede existir 1 electron a la vez, por lo que
+  mediante estos se puede definir la forma que tiene el atomo.
+
+  La configuración electronica es de alta importancia, ya que los electrones
+  son el medio por el cual los diferentes atomos interactuan entre si, formando
+  enlazes quimicos.
+
+  En los atomos se sigue la regla de que para que se puedan empezar a utilizar
+  el conjunto de orbitales cuyo espín es de -1/2 primero deben de estar com-
+  pletos todos las "cajas cuanticas" de espín 1/2, lo cual cuasa ciertas inter-
+  acciones entre los atomos.
+
+Tabla periodica:
+  La tabla periodica es una organización categorica de los átomos donde se
+  encuentran ordenados por numero átomico ascendiente y por so configuración
+  electronica.
+
+  Esta debido a su organización muestra ciertos cambios y grupos entre los
+  atomos, los cuales describiremos mas adelante.
+
+  La primera tabla fue publicada por Dmitri Mendeleyev en 1869, donde agrupo
+  el conjunto de elementos conocidos en la epoca segun sus pesos atomicos, ya
+  que en ese momento no se conocia de los numeros atomicos, ademas esta se 
+  encontraba organizada de tal manera que los elementos de la misma "familia"
+  se encontraran en la misma columna.
+
+  Esta tambla estaba muy inclompleta, con espacios libres donde, mas adelante,
+  se encontraron que existen elementos, poniendo en evidencia la naturaleza
+  periodica de la tabla.
+
+Propiedades periodicas:
+  Debido a la organización efectiva de la tabla periodica, se manifienstan en
+  ella ciertas caracteristicas de los elementos que la componen, esta esta
+  organizada segun:
+    * Grupos o columnas
+    * Periodos o filas
+
+  Dentro de un mismo grupo sen encuentran los elementos cuya configuración
+  electronica en el ultimo nivel es la misma, esto causa que estos elementos
+  tiendan a combinarse de manera similar, teniendo caracteristicas similares.
+
+  Ademas, debido a la agrupación segun nuemro atomico acendiente, se da que
+  el radio atómico conforme se mueve uno hacia abajo en la talba, crece, ya que
+  hay mas electrones en la electrosfera del atomo, debido a que si bien
+  la configuración electronica es la misma en el ultimo nivel, conforme uno
+  baja en la tabla periodica, encuentra que se completan los orbitales
+  anteriores.
+
+  Sobre el radio atómico podemos observar tambien que conforme uno se mueve mas
+  hacia la derecha en el periodo, este tiende a disminuir, esto se da debido
+  a que si bien existen mas electrones en la electrosfera del atomo, debido
+  a que la cantidad de protones en el nucleo crece este tiende a atraer mas
+  a los electrones en la electrosfera, por lo que el radio atomico disminuye.
+
+  Ademas de esto, podemos ver que se da una tendencia similar y opuesta en la
+  electronegatividad, ya que debido a la configuración electronica de los
+  elementos, los elementos ubicados en la parte mas derecha de la tabla, cuyos
+  ultimos niveles no se encuentren completos (ver gases nobles), tienden a 
+  tener una alta electronegatividad.
+
+  En si definimos la electronegatividad como la capacidad de un atmomo de
+  "tomar" electrones de otro atomo, conforme mas alta sea, mas tendencia tendrá
+  a "querer" tomar electrones de otro atomo, y conforme mas baja sea, mas
+  tendrá a "querer" ceder electrones, esto se da debido a la ley del octeto,
+  la cual enuncia que todo elemento al combinarse, tendera a tener la confi-
+  guración electronica del gas noble mas cercano.
+
+Gases nobles:
+  Definimos a los gases nobles como los elementos cuyo ultimo nivel se
+  encuentra completo, esto quiere decir que estos tienden a no combinarse con
+  otros elementos (en condiciones normales) por lo que son altamente estables.
+
+  Como fue mencionado anteriormente, los elementos siguen lo que se llama la
+  ley del octeto, donde los elementos buscaran tener 8 electrones en su
+  ultimo nivel para parecerse lo mas posible al gas noble mas cercano (con la
+  excepción del helio el cual tiene 2 electrones en su ultimo nivel).
+
+Elementos de transicion:
+  Llamamos elementos de transicion a los elementos que se estan "intentado"
+  completar el subnivel "d" de sus orbitales, o lo que quiere decir que su
+  subnivel "d" esta incompleto. Ademas especificamente los elementos que
+  pertenecen al periodo N5 tienden a tener una configuración electronica
+  "irregular", lo que quiere decir que su subnivel "s" tenderea a tener 1
+  solo electron mientras se completa el subnicel "d" anterior.
+
+Elementos de transicion interna:
+  Llamamos elementos de transicion interna a los elementos que se encuentran
+  "tratando" de completar su subnivel "f", estos al igual que los elementos
+  de transicion, pueden tener una configuración electronica "irregular".
+
+Elementos representativos de subnivel s:
+  Llamamos elemntos representativos de subnivel s a los metales alcalinos y
+  metales alcalinos terreos, estos se encuentran intentando completar su
+  subnivel s, y debido a su configuración electronica tienden a perder sus
+  electrones al entrar en contacto con no metales, estos elementos son
+  extremadamente metalicos.
+
+Elementos representativos de subnivel p:
+  Estos elementos son los Metales pobres, metaloides y no metales, estos tienen
+  este nombre debido a que, como se puede ver, actuan de manera poco metalica,
+  estos son extremadamente electronegativos, por lo que tienden a "tomar"
+  electrones al entrar en contacto con metales. Estos se ecnuentran "tratando"
+  de completar su subnivel "p".
+
+Formación de compuestos:
+
+Compuestos binarios:
+  Llamamos a un compuesto binario cuando dos tipos de atomos se combinan
+  tratando de que sus configuraciones electronicas sean lo mas similares
+  posibles a sus gases nobles mas cercanos.
+
+  La formacion de estos sigue una serie de reglas definidas por la electro-
+  negatividad de los elementos que interactuan, esto causa que, segun la con-
+  figuración electronica, el atomo "ceda" o "tome" electrones del otro atomo,
+  lo cual se denota como el estado de oxidación del elemento (nombrado asi
+  por los compuestos de tipo oxido, los cuales contienen oxigeno)
+
+  Existen 2 tipos de compuestos binarios:
+  * Oxidos:
+    Estos compuestos contienen oxigeno, el cual siempre tomara 2 electrones
+    del elemento con el que se combina, con la excepcion del Fluor el cual
+    debido a su extremadamente alta electronegatividad, no es capaz de ceder
+    electrones.
+
+    Estos se pueden clasificar en oxidos Acidos, donde el oxigeno se combina
+    con un no metal, o un oxido basico, donde se combina con un metal.
+
+  * Hidruros:
+    Estos compuestos se combinan con el Hidrogeno, el cual si bien se encuentra
+    en el grupo 1, tiende a comportarse como un no metal, tomando 1 electron
+    para poder completar su ultimo nivel y actuar como el Helio, este como
+    el nombre indica se combina con metales tomando sus electrones segun
+    corresponda para completar su ultimo nivel.
+
+    En el caso de que el hidrogeno se relacione con un no metal, el compuesto
+    formado es un hidruro.
+
+Compuestos ternarios:
+  Como vimos recientemente, tenemos diferentes tipos de compuestos binarios:
+  * Hidruros metalicos
+  * Hidruros no metalicos
+  * Oxidos acidos
+  * Oxidos basicos
+
+  Cada uno de estos interactua de una manera diferente con el agua (H2O) al
+  entrar en solución, formando compuestos ternarios.
+
+Uniones quimicas:
+  Existen 3 tipos fundamentales de uniones quimicas:
+  * Ionicas:
+    En estas uniones una de las partes tiende a tomar uno o mas electrones de
+    la otra parte, causando que se forme lo que se llama un Ion, los Iones
+    tienen de manera individual carga electrica, si es positiva se le llamara
+    cation, y se en negativa se le llamara anion.
+
+    Vale mecnionar que si bien el atomo individual tiene carga electrica ya que
+    ha perdido o ganado uno o mas electrones, causando que se de una diferencia
+    entre la carga del nucleo y la carga electrica de los electrones, se da que
+    la molecula en si mantiene una carga neutra, ya que en si la cantidad de
+    electrones totales en el sistema de la molecula se mantiene.
+
+    Para que se de una union de tipo ionica es necesario que exista una dife-
+    rencia de electronegatividad mayor que 1.7.
+
+  * Covalentes:
+    En una union de tipo covalente, ninguna de las partes es capaz de tomar
+    completamente electrones de la otra parte, esto causa que dentro de la
+    molecula se "compartan" electrones, esto en si se da en lo que se llama
+    orbitales moleculares, donde los electrones circulan al rededor de ambos
+    atomos causando que si bien el ultimo nivel de ambos esta completo, ninguno
+    de estos perdio o gano realmente un atomo.
+
+    Para que se de una union de tipo covalente es necasario que la diferencia
+    de electronegatividad sea menor que 1.7.
+
+    Ademas cuando se da una union cobalente, segun la difernecia de electro-
+    negatividad, sera posible que si bien se "comparten" los electrones, estos
+    tiendan a moverse mas hacia un cierto punto de la molecula (el punto atomo
+    mas electronegativo), esto causa que se de forme un dipolo electrico, para
+    que la diferencia de electronegatividad tienen que ser meyor que 0.4, en
+    el caso de que no se de, se llama a la union: cobalente no polar.
+
+    Las sustancias que son de tipo polar tienen la caracteristica que se pueden
+    disolver facilmente en sustancias que son polares, y las sustancias no
+    polares tienden a facilmente disolverse en sustancias no polares. Por
+    ejemplo aqui podemos observar la capacidad del agua de disolver sustancias
+    ionicas, ya que debido a que teienen una gran diferencia de electro-
+    negatividad, estas se pueden disolver en el agua, la cual es una sustancia
+    polar.
+
+  * Metalicas:
+    En las uniones de tipo metalicas se dan, como en nombre dice, entre metales
+    exclusivamente, en estas la estructura atomica tiende a ser similar a lo
+    que se puede describir como: "Un balde con pelotas de goma" donde los 
+    atmos se encuentran cercanos unos de los otros, con electrones que circulan
+    libremente entre estos.
+
+    Si bien los electrones tienen facilidad al circular, una baja cantidad de
+    estos se mueven cosntantemente, los que se mueven generan una diferencia
+    electrica en el atomo lo que causa que se mueva otro electron para ocupar
+    este lugar, esto es lo que se llama diferencia de potencial electrico, y
+    es lo que permite que "circule" la "correinte electrica" atravez del
+    cableado.
+
+Fuerzas intermoleculares:
+
+Van der Waals
+  Podemos diferenciar 2 tipos de fuerzas intermoleculares de Van der Waals, 
+  nombreadas así por el quimico que las enuncio:
+
+  * Dipolo-Dipolo
+    Cuando hay un dipolo electrico en las moleculas, si bien la carga electrica
+    total del sistema sigue siendo neutra, las diferentes moleculas tienen una
+    "forma de carga electrica", lo que quiere decir que una parte de esta
+    es ligeramente mas negativa que la otra parte, esto cuasa que cuando hay
+    multiples de estas moleculas cercanas, se alinien de tal manera de que los
+    polos negativos esten mas cercanos a los polos positivos de las otras
+    moleculas.
+
+    Debido a esta se da que las sustancias polares son capaces de disolver
+    sustancias polares, ya que al estar en solucion, las moleculas se alinean
+    de tal forma que se mantienen en posicion y no se da una separación de
+    fase.
+
+  * Dipolo-Dipolo inducido
+    Si bien las sustancias no polares no tienen un dipolo electrico, al estar
+    cercanas a sustancias de tipo polar, estas tienden a fomrar un dipolo 
+    mientras esten expuestas a estas sustancias polares, al pasar esto, es
+    posible disolver sustancias no polares en una sustancia polar, pero al
+    separarse ambas, la sustancia que normalmente no es polar regresa a su
+    estado no polar.
+
+London
+  Si bien las sustancias no polares no tienen un dipolo electrico, sus elec-
+  trones siguen en movimiento, esto quiere decir que si bine es poco probable,
+  siguie siendo posible que durante un corto periodo de tiempo, el grueso de
+  los electrones se encuentren en la misma zona de la molecula, esto causa que
+  durante un instente, esta molecula se comporte como un dipolo electrico.
+
+  Estas interacciones son extremadamente cortas, pero al haber una enorme
+  cantidad de moleculas, se tiende a dar en las sustancaias, a pesar que
+  su duración es extremadamente corta.
+
+Puente de hidrogeno
+  La union de puente de hidrogeno es la union intermolecular mas fuerte que
+  existe, para poder romperla es necesario aplicar 4kcal por mol, este tipo de 
+  uniones se dan en sustancias de tipo polar que contiene hidrogeno, el cual
+  esta enlazado a un oxigeno o nitrogeno, esto en si explica la razon de ser
+  del estado liquido del agua a temperatura ambiente, y que al pasar a estado
+  solido el volumen de esta aumente, ya que sus moleculas se organizan en forma
+  dodecagonica fomrando cristales.
+
+UNIDAD 3
+
+Soluciones:
+  Definimos una solucion como un compuesto el cual es capaz de contenter
+  de manera homogenea a otro(s) compuesto(s).
+
+  Existen 2 partes principales en una solucion: El soluto, el cual representa
+  el elemento en menor concentracion en la solucion, y el solvente, el cual
+  "contiene" al soluto.
+
+Tipos:
+  * Solidas: Las soluciones de tipo solidas contienen a 1 o mas compuestos en 
+    su estado solido contenidos dentro de otro compuesto en estado solido,
+    por ejemplo en la metalirgia se puede observar la disolucion del plomo en
+    el proceso de refinamiento de la plata.
+
+  * Liquidas: Las soluciones de tipo liquidas contienen a 1 o mas compuestos en
+    estado liquido dentro de otra sustancia liquida, el compuesto de solvente
+    tiende, debido a su organizacion molecular, a contener a el soluto.
+
+  * Gaseosas: Las soluciones de tipo gaseosas contienen 2 o mas geses donde uno
+  BLA BLA BLA
+
+Concentracion
+  Llamamos concentracion a la proporcion de soluto que compone la solución.
+  Esta se puede medir mediante el uso de diferentes unidades, químicas
+  y fisicas:
+
+  Fisicas:
+
+  * P/P: Peso sobre peso describe la proporción de la masa del soluto respecto
+    de la proporción de la masa de la solución.
+
+  * P/V: Peso sobre volumen representa la proporción de la masa del soluto
+    respecto de el volumen total de la solución.
+
+  * V/V: Volumen sobre volumen representa el volumen de soluto existente
+    en el volumen total de la solución.
+
+  Quimicas:
+
+  * Molaridad: Representa los moles de soluto que existen por litro de solución
+    esta unidad permite rapidamente saber el volumen total de la disolución que
+    se trabaja, lo cual es de utilidad para hacer rapidamente grandes canti-
+    dades de la solución.
+
+  * Molalidad: Representa la cantidad de moles de soluto por kilo de solvente,
+    esta uniad es de lata utilidad porque permite conocer con fasilidad el peso
+    de la disolucion.
+
+  * Normalidad: Representa la cantidad de quivalentes de soluto (peso equi-
+  valente o peso gramo, )
+
+Curva de solubilidad:
+  Una solucion, debido a su configuración, solamente es capaz de contener una
+  cantidad especifica de soluto, esto se ve influenciado por factores como:
+  La temprerature y la presión, segun mas alta sea la temperatura, hasta un
+  cierto punto, una solucion es capaz de aumentar la cantidad de soluto que
+  puede aceptar, pero si se supera el punto maximo se rompe la capacidad de
+  disolver mas soluto y la parte sobrante o decanta o se vuelve insetable.
+
+  Aqui podemos ver los 3 estados de una solucion:
+
+  * Insaturada:
+    La solucion todavia es capaz de disolver mas soluto, si bien existe una
+    cantidad dentro de la solucion, esta es capaz de aceptar mas.
+
+  * Diluidas:
+    La solucion tiene una cierta cantidad de soluto dentro de esta, esta
+    cantidad de soluto ya es considerable dentro de la solucion, pero aún
+    así es capaz de aceptar mas soluto.
+
+  * Saturada:
+    La solucion ha llegado al limite de la cantidad que puede aceptar, esta si
+    se le entrega mas soluto no lo disolvera, la parte sobrante simplemente
+    decanta al fondo en caso de que su tamaño de particula lo permita, en otras
+    palabras se muestra como otra fase parate del sistema.
+
+  * Sobresaturada:
+    Se llama solucion sobresaturada a una solucion que se le ha aumentado la
+    capacidad de solubilidad mediante un cmabio de temperatura o presion, y se
+    le ha entrago mas solvente, una vez que la tempratura baja esta solucion 
+    si bien todavia contiene al soluto, es extremadamente inestable, y este es
+    capaz de separarse de la solucion.
+
+Dispersiones coloidales:
+  Llamamos a una dispersion coloideal a un sistema polifasico, donde una o mas
+  fases estan dispersas, lo cual llamamos fase dispersa, dentro de una fase
+  dispersante, estas son particulas extremadamente pequeñas, estas particulas
+  se mantienen de manera estable dentro de la dase dispersante, un ejemplo
+  típico de este tipo de sustancias es la leche.
+
+UNIDAD 4
+
+Reacciones quimicas:
+  Definimos como reaccion quimica a todo cambio que se de a la estructura mole-
+  cular de un compuesto, esta puede relacionar a uno o mas compuestos en si, a
+  los que llamaremos reactivo, y general 1 o mas compuestos de salida, que los
+  llamaremos productos.
+
+  Fundamentalmente al darse una reaccion quimica de cualquier tipo, se da un 
+  cambio en la estructura de la molecula de una u otra forma causando que
+  el compuesto de salida sea diferente que el compuesto inicial, o lo que
+  quiere deicr que el reactivo sera diferente del producto.
+
+  Al darse una reaccion quimica si bien se altera la estructura de los compu-
+  estos que reaccionan, los elementos presentes junto a sus moles siempre se
+  mantienen, debido al principio de concervación de la masa.
+
+Ecuaciones quimicas:
+  Para poder expresar una reaccion quimica damos uso de lo que llamamos una
+  ecucaion quimica, en esta se enuncia los diferentes compuestos que inter-
+  vienen en la reacción, la cantidad de moles que reaccionan y la dirección o
+  tipo de reaccion.
+
+  Denotamos los moles de moleculas como un numero escrito detras del compuesto
+  el cual actua como "multiplicador" de la cantidad de atomos que componen el
+  compuesto.
+
+  La direccion de la reacción se refiere a si esa reacción se da en un solo
+  sentido, o si la reacción se puede dar en ambas direcciónes, lo que quiere
+  decir que el producto de esa reaccion es el reactivo de la reacción opuesta.
+
+Balance de ecuaciones:
+  Debido al hecho de que siempre se mantiene la misma cantiad de atomos dentro
+  de una reacción, es necesario de que se balancee la ecuación de manera ade-
+  cuada, de tal forma de que se respete esta relación, eso quiere decir que si,
+  por ejemplo, reacciona una molecula que contiene 2 átomos de oxigeno, y su
+  producto es otra molecula que contiene 3 átomos de oxigeno, se necesitaran 3
+  moelculas del reactivo A para generar 2 moleculas del produto B, de esta
+  manera se mantiene siempre la cantidad absoluta de oxigenos en el sistema.
+
+Relaciones estequimetricas:
+  Las reacciones estequimetricas nos permiten conocer, basado en una cantidad
+  conocida de reactivo, y una reaccion conocida, cuando producto se genera.
+
+  Esto se realiza por medio de la cantiad de moles que reaccionan, sabemos que
+  una cantidad especifica de moles en una ecuacion quimica generara otra can-
+  tidad especifica de moles de producto, debido a la ley de conervación de la
+  masa; tambien sabemos que cada atomo tiene un peso atomico asociado el cual
+  representa su masa en gramos al tener 1 mol de este.
+
+  Mediante esto podemos calcular cuantos gramos representa 1 mol de una sus-
+  tancia, ya que el peso molecular de la sustancia es igual a la suma de los
+  pesos atomicos de los átomos que la componen, gracias a esto podemos calcular
+  cuantos gramos de una sustancia representa 1 mol, y de allí podemos calcular
+  cuantos moles de sustancia tenemos presentes en la reacción. Al conocer la
+  cantidad de moles de los reactivos podemos obtener por logica matematica la
+  cantidad de moles de producto, los cuales tambien podemos traducir nuevamente
+  a gramos.
+
+  Esto es de enorme utilidad para la quimica analitica, ya que mediente este
+  metodo podemos conocer cuando de un reactivo ha reaccionado, y por ender en
+  un sistema donde desconocemos cuanto reactivo hay, podemos calcular cuanto
+  producto hemos obtenido y apartir de allí calcular la cantidad de reactivo
+  que habia en el sistema.
+
+Reactivo limitante:
+  De aquí pasamos al tema del reactivo limitante, como mencionamos antes es
+  posible dar uso de las constantes molares de una reaccion para calcular
+  el reactivo o el producto, planteamos la siguiente reacción:
+
+    A + B -> C
+
+  Queremos conocer cuanto A tenemos en el sistema, lo que hacemos es añadir
+  al sistema grandes cnatidades de B, mucho mas de lo que A podria utilizar
+  para generar C, una vez que la reacción termina, todo A ha sido consumido
+  para generar C, por ende podemos medir cuanto C hay en el sistema, y sabremos
+  cuanto A existia, esto se da debido a que la cantidad de A en el sistema es
+  limitada, y la cantidad de B es mucho mayor por lo que la racción seguira
+  siempre que exista A dispoble. En este caso llamamos A al reactivo limitante
+  y B reactivo en exceso.
+
+Termodinamica quimica:
+  La termodinamica quimica define 2 tipos de reacciones:
+  * Endotermicas
+  * Exotermicas
+
+  Esta clasificación denota la energia en las moleculas del sistema, para
+  romper enlaces es necesario aportar energia al sistema, y para poder crear
+  enlaces el sistema libera energia, de aquí podemos ver la denotación:
+
+  Las reacciones endotermicas necesitan energia para que se puedan dar, y las
+  reacciones exotermicas liberan energia al darse.
+
+  Sin embargo, si bien parece que en las reacciones exotermicas se pueden dar
+  de manera espontanea (sin necesidad de aportarle energia adicional) no
+  siempre este es el caso, lo que sucede que la curvatura de energia de la
+  reacción tiene lo que se llama una barrera termica. Esta barrera termica en
+  si es la cantidad de energia minima para que se pueda iniciar la reaccion,
+  por ejemplo en una reacción de combustion es necesaria una chispa para que
+  se inicie el proceso, apeasar de que los reactivos sean extremadamente
+  volatiles, sin embargo una vez que se ha pasado esta barrera de energia la
+  misma reaccion es capaz de liberar suficiente energia para que se pueda
+  perpetuar en el tiempo, siempre que exista suficiente reactivo por su puesto.
+
+  El caso opuesto se refiere a las reacciones endotermicas, donde para que se
+  puedan seguir dando es necesario que el sistema le aporte energia, por
+  ejemplo al calentar una reaccion con un mechero se le esta aportando energia
+  termica al sistema para que la reaccion se de.
+
+Velocidad de reaccion:
+  La velocidad de reaccion se refiere a la cantidad de prodcuto que se genera
+  con respecto al tiempo, la velocidad en la cual se da una reaccion depende de
+  multiples factores, la cantidad de reactivo, temperatura, persion, sustancias
+  cataliticas, etc. todos estos factoes afectan las especificas reacciones de
+  diferentes maneras.
+
+Orden y Molecularidad:
+  La moleculariad similar a la estiquimetria se refiere a la cantiad de mole-
+  culas neceasras para que se de una reaccion especifica, el orden se refiere
+  al comportameinto cinetico (velocidad) de la reaccion.
+
+UNIDAD 5
+
+Equilibrio quimico:
+  Defininmos a una reaccion como una reaccion de equilibrio a una reaccion en
+  la cual su producto es el reactivo de la reacción opuesta, y esta se puede
+  dar de manera inmediata con so estado energetico actual.
+
+  Cuando se da una reacción de equilibro se genera una doble curva de velocidad
+  de reaccion, donde la curvatura superior representa la reacción inicial y
+  la curvatura inferior representa la reaccion inversa, conforme avanza la
+  reaccion, ambas tienden hacia una recta donde ambas llegan a una misma
+  veolicdad de reaccion. Esta velocidad llamaermos constante de equilibrio
+
+  Lo que sucede es que al alcanzarse esa constante de equilibrio la reacción no
+  se detiene en ningun momento, pero lo que se se observa es que la cantidad de
+  los reactivos y productos se vuelve estable, lo que sucede es que ambas
+  reacciones se dan de manera simultanea a la misma velocidad, por lo que a 
+  este equilibrio llamamos un equilibrio dinamico.
+
+  A este estado se ve enunciado en la ley de masas, la cual enuncia que en una
+  reaccion reversible, en equilibrio, que se encuentra a una temperatura
+  constante, la relación entre las concentraciones de los reactivos se mantiene
+
+  La relacion Kc, o de constante de equilibrio se refiere a el producto de
+  las concentraciones de los compuestos elevados a su cantiad de moles, sobre
+  el producto de la concentración de los reactivos tambien elevados cada uno
+  sobre su cantidad de moles.
